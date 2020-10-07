@@ -1,1 +1,1 @@
-# thrillkill.ps1finaledition.github.io-
+# thrillkill.ps1finaledition.github.io
